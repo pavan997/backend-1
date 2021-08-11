@@ -1,0 +1,13 @@
+{
+  "name": "backend-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon one.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
